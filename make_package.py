@@ -25,7 +25,7 @@ def clean_name(file_name):
         case "":
             return "neogob"
         case _:
-            return f"neogob{emoji_name}"
+            return f"neogob_{emoji_name}"
 
 def make_emoji_json():
     emoji_list = []
