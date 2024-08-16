@@ -15,17 +15,17 @@ def clean_name(file_name):
     emoji_name = name_pattern.match(file_name).groups()[0]
     match(emoji_name):
         case "0_0":
-            return "neogob 0_0"
+            return "neogob_0_0"
         case "x_x":
-            return "neogob x_x"
+            return "neogob_x_x"
         case "_":
-            return "neogob __"
+            return "neogob__"
         case "_w_":
-            return "neogob _w_"
+            return "neogob_w_"
         case "":
             return "neogob"
         case _:
-            return f"neogob {emoji_name.replace("_", " ")}"
+            return f"neogob{emoji_name}"
 
 def make_emoji_json():
     emoji_list = []
