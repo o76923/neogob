@@ -9,10 +9,10 @@ EMOJI_FILE_TYPES = (".gif", ".png", ".apng", ".webp")
 HOST = "sakurajima.social"
 LICENSE = "CC BY-NC-SA 4.0"
 
-name_pattern = re.compile(r"neogob_?(.*)\.(png)")
+name_pattern = re.compile(r"(a?)neogob_?(.*)\.a?png")
 
 def clean_name(file_name):
-    emoji_name = name_pattern.match(file_name).groups()[0]
+    animated, emoji_name = name_pattern.match(file_name).groups()
     match(emoji_name):
         case "0_0":
             return "neogob_0_0"
@@ -25,7 +25,7 @@ def clean_name(file_name):
         case "":
             return "neogob"
         case _:
-            return f"neogob_{emoji_name}"
+            return f"{animated}neogob_{emoji_name}"
 
 def make_emoji_json():
     emoji_list = []
@@ -69,6 +69,7 @@ if __name__ == "__main__":
     make_pack_json()
     shutil.copy("LICENSE", f"neogob\\LICENSE")
     shutil.copy("THANKS", f"neogob\\THANKS")
+    os.remove("neogob.zip")
     shutil.make_archive("neogob", "zip", "neogob")
     os.remove("neogob\\LICENSE")
     os.remove("neogob\\THANKS")
