@@ -46,7 +46,7 @@ def make_dizzy():
     eye = gob.find(".//{http://www.w3.org/2000/svg}path[@id='left_eye']")
     os.mkdir("dizzy_dir")
     for rotation in range(6):
-        eye.set("transform", f"rotate({rotation*(-60)} 1354 901)")
+        eye.set("transform", f"rotate({rotation*(-60)} 1304 901)")
         gob.write(f"dizzy_dir/temp.svg")
         subprocess.run(f"{INKSCAPE_PATH} .\\dizzy_dir\\temp.svg --export-area-page -w 256 -h 256 --export-filename=.\\dizzy_dir\\neogob_dizzy{rotation:1d}.png")
 
