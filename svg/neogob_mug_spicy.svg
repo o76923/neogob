@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xml:space="preserve"
+   id="svg1"
+   version="1.1"
+   viewBox="0 0 2048 2048"
+   sodipodi:docname="neogob_tea.svg"
+   inkscape:export-filename="..\png\neogob_tea_drink.png"
+   inkscape:export-xdpi="12"
+   inkscape:export-ydpi="12"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.36181641"
+   inkscape:cx="932.79352"
+   inkscape:cy="1037.8192"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1" />
+  <style
+   id="style1">
+    .fur{fill:#8bb9a0}.paw{fill:#8bb9a0}.hand{fill:#8bb9a0}.outline{stroke:#000}.iris{fill:#000}.sclera{fill:#ff6a00}.mouth{stroke:#542912}.tooth{fill:#fefbba}.tongue{fill:#cf4d4c}
+  </style>
+  <path
+   id="outline"
+   class="outline"
+   stroke-width="130"
+   d="M84 119c-9 0-14 11-11 18 30 130 59 260 92 390 8 22 29 38 51 44 41 15 82 30 120 50-34 26-71 49-104 77a70 70 0 0 0-19 59c2 16 7 32 12 48 10 30 22 60 26 92 1 8 0 17-5 24-6 15-13 29-18 45-26 67-39 138-47 209-6 59-4 117-5 176a580 580 0 0 0 528 587c47 4 94 2 141 3l585-1a447 447 0 0 0 425-463c-1-112 1-224-3-336a733 733 0 0 0-52-231c-2-4 1-9 2-13l17-78 62-289 62-293c4-31 37-107 6-112-17-3-92 46-106 55l-160 82a7960 7960 0 0 1-351 166c-55-11-111-20-168-25a1146 1146 0 0 0-374 28c-167-73-333-147-499-222L89 119h-5Z" />
+  <path
+   id="body"
+   class="fur"
+   d="M1432 1877a388 388 0 0 0 359-361c2-21 1-355-1-372-17-181-65-216-53-246 9-24 136-639 143-663 1-4 1-5-1-3-3 2-509 263-545 261-306-71-526-3-549 5-25-9-629-280-629-280s66 289 69 289c88 32 170 66 182 88 9 18 7 41-7 56-13 14-124 88-125 92-6 27 61 139 32 197-41 82-58 174-66 264-2 19-3 161-1 185a518 518 0 0 0 483 488c19 2 694 2 709 0z" />
+  <path
+   id="left_eye"
+   class="sclera"
+   d="M1214 830c71 0 128 58 128 130v64c0 72-57 130-128 130s-128-58-128-130v-64c0-72 57-130 128-130z" />
+  <use
+   id="right_eye"
+   x="0"
+   y="0"
+   href="#left_eye"
+   transform="translate(-576)" />
+  <g
+   id="drink"
+   style="display:inline">
+    <path
+   id="cup"
+   fill="#ffffff"
+   paint-order="markers stroke fill"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width="89"
+   d="m 764,1414 h 191 c 70,0 127,56 127,127 v 260 c 0,70 -57,127 -127,127 H 764 c -70,0 -126,-57 -126,-127 v -260 c 0,-71 56,-127 126,-127 z"
+   style="fill:#5f3e1d;fill-opacity:1" />
+    <path
+   id="liquid"
+   fill="#d5e5ff"
+   paint-order="markers stroke fill"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width="89"
+   d="m 761,1482 h 196 c 33,0 60,26 60,60 v 264 c 0,34 -27,60 -60,60 H 761 c -33,0 -60,-26 -60,-60 v -264 c 0,-34 27,-60 60,-60 z"
+   style="fill:#5f3e1d;fill-opacity:1" /><path
+   id="path5"
+   style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:57.3329;stroke-dasharray:none;stroke-opacity:1"
+   d="m 1054.1623,1631.028 v 2.4564 c 0,40.5453 -33.1734,73.7187 -73.71865,73.7187 H 739.62921 c -40.54523,0 -73.71871,-33.1734 -73.71871,-73.7187 l 2e-5,-2.4564" />
+    <path
+   id="liquid_top"
+   fill="#aaccff"
+   paint-order="markers stroke fill"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width="89"
+   d="m 761,1482 h 196 c 33,0 60,26 60,60 v 4 c 0,33 -27,60 -60,60 H 761 c -33,0 -60,-27 -60,-60 v -4 c 0,-34 27,-60 60,-60 z"
+   style="fill:#00ff00;fill-opacity:1" />
+  <path
+   id="path6"
+   style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:57.3329;stroke-dasharray:none;stroke-opacity:1"
+   d="m 1054.1623,1771.028 v 2.4564 c 0,40.5453 -33.1734,73.7187 -73.71865,73.7187 H 739.62921 c -40.54523,0 -73.71871,-33.1734 -73.71871,-73.7187 l 2e-5,-2.4564" /></g><path
+   id="tooth"
+   class="tooth"
+   d="m1132 1383 65 80a6 6 0 0 0 11-3l15-149a6 6 0 0 0-10-5l-80 66c-3 3-3 8-1 11z" /><path
+   id="tongue"
+   class="tongue"
+   d="m 777,1290 v 149 c 0,7 2,16 6,26 a 112,112 0 0 0 217,-18 l 1,-11 v -146 z"
+   style="display:inline" /><path
+   id="mouth"
+   class="fur mouth"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width="80"
+   d="m637 1254 99 157 127-162 158 165 193-162" />
+  <g
+   id="arm"
+   style="display:inline">
+    <path
+   id="forearm"
+   class="fur outline"
+   paint-order="markers stroke fill"
+   stroke-linecap="butt"
+   stroke-linejoin="round"
+   stroke-width="144"
+   d="m 1388,1508 c -28,4 -252,60 -252,60 -41,9 -63,27 -78,49 l -4,9 c -14,26 -18,61 -8,99 15,67 78,103 127,92 0,0 239,-57 267,-65" />
+    <path
+   id="paw"
+   class="paw"
+   d="m 1268,1795 -95,22 c -49,11 -112,-25 -127,-92 -10,-38 -6,-73 8,-99 14,-27 37,-48 82,-58 l 92,-21 c 61,69 87,160 40,248 z" />
+  </g>
+  
+  
+  
+<g
+   id="g9"
+   inkscape:label="bubbles"><circle
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:60;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+     id="path7"
+     cx="798.8089"
+     cy="1412.36"
+     r="29.803452" /><circle
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:54.4359;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+     id="circle7"
+     cx="907.32715"
+     cy="1346.6056"
+     r="27.039619" /><circle
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:54.4359;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+     id="circle8"
+     cx="943.33258"
+     cy="1478.6163"
+     r="27.039619" /><circle
+     style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:98.9489;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+     id="circle9"
+     cx="810.59302"
+     cy="1215.3615"
+     r="49.15028" /></g></svg>
