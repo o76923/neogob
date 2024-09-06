@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Krita: https://krita.org -->
+
+<svg
+   width="639pt"
+   height="958.5pt"
+   viewBox="0 0 639 958.5"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="love.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.41549296"
+     inkscape:cx="410.35593"
+     inkscape:cy="639"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs2" />
+  <g
+     id="g831"
+     transform="translate(-472.49426,-129.21182)">
+    <path
+       id="shape06"
+       transform="matrix(-0.4222288,-0.90648915,-0.90648915,0.4222288,862.48966,964.33427)"
+       fill="#000000"
+       fill-rule="evenodd"
+       stroke-opacity="0"
+       stroke="#000000"
+       stroke-width="0"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       d="M 100.487,33.0027 C 75.8899,-22.0173 26.7709,2.50429 4.61416,29.393 -8.42836,45.221 8.89879,73.2545 22.8971,88.7414 56.5422,125.964 112.144,84.6977 104.768,71.0835 96.5454,55.9063 72.4511,76.3645 51.3329,64.3808 30.6523,52.6454 23.5631,25.4309 51.4469,17.5247 71.0273,11.9728 67.4345,45.286 89.2651,44.0799 97.9958,43.2082 101.781,35.8979 100.487,33.0027 Z"
+       sodipodi:nodetypes="cssssscs" />
+    <path
+       id="shape011"
+       transform="matrix(-0.3952752,-0.91856259,-0.91856259,0.3952752,808.61782,827.60161)"
+       fill="#000000"
+       fill-rule="evenodd"
+       stroke-opacity="0"
+       stroke="#000000"
+       stroke-width="0"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       d="M 568.994,15.9468 C 388.384,-5.03575 -27.239,-4.00283 1.40915,11.4211 99.7927,64.39 384.89,35.2586 570.21,80.4146 579.309,57.7249 562.93,40.9483 568.994,15.9468 Z"
+       sodipodi:nodetypes="cscc" />
+    <path
+       id="shape0111"
+       transform="matrix(0.56573636,-0.824586,-0.824586,-0.56573636,684.03278,721.88051)"
+       fill="#000000"
+       fill-rule="evenodd"
+       stroke-opacity="0"
+       stroke="#000000"
+       stroke-width="0"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       d="M 568.994,15.9468 C 388.384,-5.03575 -27.239,-4.00283 1.40915,11.4211 99.7927,64.39 360.025,28.0355 545.345,73.1915 554.444,50.5018 562.93,40.9483 568.994,15.9468 Z"
+       sodipodi:nodetypes="cscc" />
+    <path
+       id="shape0112"
+       transform="matrix(0.98999413,-0.14110748,-0.14110748,-0.98999413,506.12109,392.36247)"
+       fill="#000000"
+       fill-rule="evenodd"
+       stroke-opacity="0"
+       stroke="#000000"
+       stroke-width="0"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       d="M 568.994,15.9468 C 388.384,-5.03575 -27.239,-4.00283 1.40915,11.4211 99.7927,64.39 384.89,35.2586 570.21,80.4146 579.309,57.7249 597.721,35.2318 568.994,15.9468 Z"
+       sodipodi:nodetypes="cscc" />
+  </g>
+</svg>
