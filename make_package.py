@@ -5,11 +5,11 @@ import re
 from datetime import datetime
 
 CATEGORY = "neogob"
-EMOJI_FILE_TYPES = (".gif", ".png", ".apng", ".webp")
-HOST = "sakurajima.social"
+EMOJI_FILE_TYPES = (".gif", ".png", ".apng")
+HOST = "void.lgbt"
 LICENSE = "CC BY-NC-SA 4.0"
 
-name_pattern = re.compile(r"(a?)neogob_?(.*)\.a?png")
+name_pattern = re.compile(r"(a?)neogob_?(.*)\.(?:a?png|gif)")
 
 def clean_name(file_name):
     animated, emoji_name = name_pattern.match(file_name).groups()
